@@ -98,5 +98,3 @@ app.get("/students/delete-student/:id", (req, res) => {
     });
 });
 
-/* Creating the relationship */
-
